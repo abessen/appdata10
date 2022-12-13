@@ -91,4 +91,4 @@ st.dataframe(df,width=1000, height=240)
 
 #Refresh Delay
 time.sleep(30)
-st.experimental_rerun()
+#st.experimental_rerun()
